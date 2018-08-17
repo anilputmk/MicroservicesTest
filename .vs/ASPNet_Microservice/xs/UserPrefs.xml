@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="ASPNet_Microservice/wercker.yml">
     <Files>
       <File FileName="ASPNet_Microservice/Program.cs" Line="21" Column="103" />
-      <File FileName="ASPNet_Microservice/Startup.cs" Line="36" Column="22" />
+      <File FileName="ASPNet_Microservice/Startup.cs" Line="27" Column="1" />
       <File FileName="ASPNet_Microservice/wercker.yml" Line="15" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>

@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/ASPNet_Microservice.csproj",
+      "projectUniqueName": "/Users/anilp/Projects/ASP_Netmicroservices/ASPNet_Microservice/ASPNet_Microservice.csproj",
       "projectName": "ASPNet_Microservice",
-      "projectPath": "/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/ASPNet_Microservice.csproj",
+      "projectPath": "/Users/anilp/Projects/ASP_Netmicroservices/ASPNet_Microservice/ASPNet_Microservice.csproj",
       "packagesPath": "/Users/anilp/.nuget/packages/",
-      "outputPath": "/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj",
+      "outputPath": "/Users/anilp/Projects/ASP_Netmicroservices/ASPNet_Microservice/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
