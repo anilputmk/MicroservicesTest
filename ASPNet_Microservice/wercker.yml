@@ -1,0 +1,15 @@
+﻿box: microsoft/dotnet:2.1-sdk
+no-response-timeout: 10
+build:
+    steps:
+        -script:
+         name: restore
+         code: |
+          dotnet restore
+        -script:
+         name: build
+         code: |
+          dotnet build
+        -script:
+          name: publish
+          code: 

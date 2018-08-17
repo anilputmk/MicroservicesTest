@@ -1,0 +1,14 @@
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.csproj.CoreCompileInputs.cache
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.RazorAssemblyInfo.cache
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.RazorAssemblyInfo.cs
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.AssemblyInfoInputs.cache
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.AssemblyInfo.cs
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.csprojAssemblyReference.cache
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/bin/Debug/netcoreapp2.1/ASPNet_Microservice.deps.json
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/bin/Debug/netcoreapp2.1/ASPNet_Microservice.runtimeconfig.json
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/bin/Debug/netcoreapp2.1/ASPNet_Microservice.runtimeconfig.dev.json
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/bin/Debug/netcoreapp2.1/ASPNet_Microservice.dll
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/bin/Debug/netcoreapp2.1/ASPNet_Microservice.pdb
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.RazorTargetAssemblyInfo.cache
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.dll
+/Users/anilp/Projects/ASPNet_Microservice/ASPNet_Microservice/obj/Debug/netcoreapp2.1/ASPNet_Microservice.pdb

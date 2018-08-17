@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{32B84046-8DF1-4897-9781-C84B21D6A832}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPNet_Microservice/wercker.yml">
+    <Files>
+      <File FileName="ASPNet_Microservice/Program.cs" Line="21" Column="103" />
+      <File FileName="ASPNet_Microservice/Startup.cs" Line="36" Column="22" />
+      <File FileName="ASPNet_Microservice/wercker.yml" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ASPNet__Microservice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
