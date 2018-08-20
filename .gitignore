@@ -1,0 +1,6 @@
+!.gitignore
+ASPNet_Microservice/bin
+ASPNet_Microservice/obj
+ASPNet_Microservice_Tests/bin
+ASPNet_Microservice_Tests/obj
+.vs/

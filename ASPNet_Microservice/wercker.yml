@@ -3,13 +3,27 @@ no-response-timeout: 10
 build:
     steps:
         -script:
-         name: restore
-         code: |
-          dotnet restore
+            name: restore
+            code: |
+                dotnet restore
         -script:
-         name: build
-         code: |
-          dotnet build
+            name: build
+            code: |
+                dotnet build
         -script:
-          name: publish
-          code: 
+            name: publish
+            code: |
+                dotnet -o publish
+        -script:
+            name: copy binary
+            code: |
+            cp -r . $WRECKER_OUT_DIR/app
+            cd $WRECKER_OUT_DIR/app
+deploy
+    steps:
+        -internal/docker-push:
+            username: $USERNAME
+            password: $PASSWORD
+            repository: anilputmk/MicMicroservicesTest
+            registry: https://github.com/anilputmk/MicroservicesTest.git
+            entrypoint: "pipeline/source/app/docker_entrypoint.sh"

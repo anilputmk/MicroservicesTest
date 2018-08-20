@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPNet_Microservice\ASPNet_Microservice.csproj" />
+    <PackageReference Include="xunit" version="2.3.1" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" version="2.3.1" Version="2.3.1" />
+    <DotNetCliToolReference Include="dotnet-xunit" version="2.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Core">
+      <HintPath>..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.mvc.core\2.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
